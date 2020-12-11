@@ -8,4 +8,4 @@ export const CreditCardInput = connectToState(CCF);
 export const LiteCreditCardInput = connectToState(LiteCCF);
 export const CardView = CV;
 export const CCInput = CCI;
-export const IP = InjectedProps;
+export const InjectedProps = IP;
