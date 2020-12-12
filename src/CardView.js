@@ -132,7 +132,8 @@ export default class CardView extends Component {
           friction={10}
           perspective={2000}
           clickable={false}
-          flip={shouldFlip}>
+          //flip={shouldFlip}
+        >
           <ImageBackground style={[BASE_SIZE, s.cardFace, transform]}
             source={imageFront}>
               <Image style={[s.icon]}
