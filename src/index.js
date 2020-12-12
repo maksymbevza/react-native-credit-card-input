@@ -1,4 +1,4 @@
-import connectToState as cts, { InjectedProps as IP } from "./connectToState";
+import cts, { InjectedProps as IP } from "./connectToState";
 import CCF from "./CreditCardInput";
 import LiteCCF from "./LiteCreditCardInput";
 import CV from "./CardView";
